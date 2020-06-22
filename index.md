@@ -10,3 +10,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Eigentschaft 6
 
 > Ich bin ein super Zitat
+
+<img src="post01.jpg"/>
